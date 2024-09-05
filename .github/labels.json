@@ -1,3 +1,9 @@
+<!--
+node.js install
+npm version check
+cmd  
+github-label-sync --access-token ghp_???GZJ7YeNblyxD45InROpe69VBxnaBMJ2BSX4E --labels ./labels.json the-flumen/the-flumen.github.io
+-->
 [
   {
       "name": "⚙ Setting",
