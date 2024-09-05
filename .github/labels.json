@@ -86,17 +86,42 @@
   },
   {
       "name": "Done",
-      "color": "735c00",
+      "color": "FBCA04",
       "description": "상태 : 완료"
   },
   {
       "name": "Doing",
-      "color": "fcd531",
+      "color": "FBCA04",
       "description": "상태 : 진행중"
   },
   {
       "name": "Cancelled",
-      "color": "816700",
-      "description": "상태 : 취소"
-  }
+      "color": "FBCA04",
+      "description": "상태 : 이슈 삭제"
+  },
+  {
+      "name": "Waiting ON",
+      "color": "FBCA04",
+      "description": "상태 : 대기"
+  },
+  {
+      "name": "Hold ON",
+      "color": "FBCA04",
+      "description": "상태 : 진행 중지"
+  },
+  {
+      "name": "Edit",
+      "color": "7B916B",
+      "description": "상태 : 클로즈 된 이슈를 수정함"
+  },
+  {
+      "name": "Duplicate",
+      "color": "cfd3d7",
+      "description": "복사"
+  },
+  {
+      "name": "Delete",
+      "color": "cfd3d7",
+      "description": "삭제"
+  }  
 ]
